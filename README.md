@@ -6,7 +6,7 @@ The files will be directly download from the github page for Unity and the googl
 
 This is also my first time doing this and also the first time using Github for sharing something.
 
-My standard download location is /home/deck/Desktop/.
+My standard download location is /home/deck/Desktop/temp.
 The game will be extracted/installed to /home/deck/games/DFU
 
 I will try to maintain and update the script when problems arise, which includes download location or updates of the different files.
